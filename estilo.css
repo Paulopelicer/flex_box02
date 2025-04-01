@@ -60,9 +60,9 @@ h1 {
 }
 .container-exercicioB{
     flex-direction: column-reverse;
-    justify-content: flex-start;
+    justify-content: flex-end;
 }
 .container-desafio{
     flex-direction: row-reverse;
-    justify-content: flex-start;
+    justify-content: flex-end;
 }
